@@ -1,0 +1,14 @@
+﻿  moc myqbutton.h
+  main.cpp
+  myqbutton.cpp
+E:\code C++\MyQwidget\myqbutton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/myqbutton.cpp”)
+  
+E:\code C++\MyQwidget\myqbutton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/main.cpp”)
+  
+  moc_myqbutton.cpp
+E:\code C++\MyQwidget\myqbutton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/x64/Debug/moc/moc_myqbutton.cpp”)
+  
+  MyQwidget.vcxproj -> E:\code C++\MyWidget\x64\Debug\MyQwidget.exe
